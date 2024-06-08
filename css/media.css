@@ -1,0 +1,66 @@
+@media(max-width: 767px){
+    .banner h5{
+        font-size: 18px;
+    }
+    .banner h1{
+        font-size: 30px;
+        padding: 10px 0 !important;
+    }
+    .banner p{
+        font-size: 16px !important;
+    }
+    .about-info h2{
+        font-size: 20px;
+    }
+    .about-info h5{
+    font-size: 15PX;
+    }
+    .event button{
+        padding: 10px 8px;
+        font-size: 12px;
+    }
+}
+@media(max-width: 991px){
+    header img{
+        width: 130px;
+    }
+    header ul li a{
+        margin-top: 8px;
+    }
+    .banner h1{
+        font-size: 35px;
+        padding: 10px 0 !important;
+    }
+    .banner p{
+        font-size: 16px !important;
+    }
+    .about-info h2{
+        font-size: 20px;
+    }
+    .about-info h5{
+    font-size: 15PX;
+    }
+    .event button{
+        padding: 10px 20px;
+        font-size: 24px;
+    }
+}
+@media(max-width: 1399px){
+    .event button{
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+}
+@media(max-width: 1199px){
+    .event button{
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+    .event h3,h4{
+        font-size: 20px;
+    }
+    .event p{
+        font-size: 14px;
+    }
+
+}
